@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% load static %}
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Escuela de Vuelo - Escuadrilla Halcón</title>
+  </head>
+  
+  <body>
+    <header class="border">
+      <div class="row" style="margin: 0">
+          <div class="col-xl-3 col-md-3" style="padding: 0;margin: 0">
+              <img class="img-fluid" src="{% static "logo.png" %}" alt="My image" style="object-fit:initial; max-width: 100%; max-height: 200%; width: 80%; height: 150px; margin-left: 35px;">
+          </div>
+          
+          <div class="col-xl-6">
+            <div class="col-sm-12" style="padding: 0; margin: 0;margin-top: 30px">
+              <nav class="row navbar navbar-expand-lg navbar-light" style="margin: 0;padding: 1; height: 100%;"> 
+                <ul class="col-sm-12 navbar-nav" id="cambiame" style="object-fit: contain; padding: 0;margin: 0; height: 100%;"> 
+                  <li class="nav-item active mx-auto">
+                    <a class="nav-link" href="#"><font size="2"><b>Inicio</b></font></a>
+                  </li>
+                  <li class="nav-item active mx-auto">
+                      <a class="nav-link" href="#"><font size="2"><b>Beneficios</b></font></a>
+                  </li>
+                  <li class="nav-item active mx-auto">
+                      <a class="nav-link" href="#"><font size="2"><b>Contacto</b></font></a>
+                  </li>
+                  <li class="nav-item active mx-auto">
+                      <a class="nav-link" href="#"><font size="2"><b>Formas de pago</b></font></a>
+                  </li>
+                  <li class="nav-item active mx-auto">
+                      <a class="nav-link" href="#"><font size="2"><b>Equipo</b></font></a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 align-self-center text-center" style="margin: 0">
+              <a style="margin-top: 50%;" href="#">Bienvenido administrador</a> <br>
+              <a style="margin-top: 50%;" href="#">Cerrar Sesión</a>
+          </div>
+      </div>
+    </header>
+    {% block content %}
+    {% endblock %}
+<!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.0/dist/jquery.validate.min.js"></script>
+    <script src="{% static "js/jquery-validate.bootstrap-tooltip.min.js" %}"></script>
+    {% block scripts %}
+    {% endblock %}
+  </body>
+</html>

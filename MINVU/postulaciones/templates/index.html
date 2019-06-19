@@ -1,0 +1,156 @@
+{% extends "building/base.html" %}
+
+{% block content %}
+
+{% load static %}
+<p>
+
+</p>
+<h1 style="text-align: center;margin: 0">INFORMACIÓN POSTULANTES</h1>
+<div class="row" style="overflow-x:auto; margin: 0">
+<table class="table table-dark" >
+    <thead>
+        <tr>
+        <th scope="col"></th>
+        <th scope="col">NRO_FOLIO</th>
+        <th scope="col">FOTO</th>
+        <th scope="col">FECHA_POSTULACION</th>
+        <th scope="col">RECEPTOR_POSTULACION</th>
+        <th scope="col">CEDULA_POSTULANTE</th>
+        <th scope="col">FECHA_NAC_POST</th>
+        <th scope="col">NOM_COMPLETO_POST</th>
+        <th scope="col">NACIONALIDAD_POST</th>
+        <th scope="col">ESTADO_CIVIL_POST</th>
+        <th scope="col">TOTAL_CARGAS</th>
+        <th scope="col">PUEBLO_INDIGENA_POST</th>
+        <th scope="col">DESCR_TITULO_POST</th>
+        <th scope="col">NUMERO</th>
+        <th scope="col">CALLE_POST</th>
+        <th scope="col">BLOCK_POST</th>
+        <th scope="col">DEPARTAMENTO_POST</th>
+        <th scope="col">MANZANA_POST</th>
+        <th scope="col">SITIO_POST</th>
+        <th scope="col">REGION</th>
+        <th scope="col">COMUNA</th>
+        <th scope="col">TELEF_TRABAJO_POST</th>
+        <th scope="col">TELEF_DOMICILIO_POST</th>
+        <th scope="col">TELEF_MOVIL_POST</th>
+        <th scope="col">COD_POSTAL_POST</th>
+        <th scope="col">EMAIL_POST</th>
+        <th scope="col">CEDULA_CONYUGE</th>
+        <th scope="col">NOMBRE_CONYUGE</th>
+        <th scope="col">TRAMO_POSTULACION</th>
+        <th scope="col">TIPO_VIVIENDA</th>
+        <th scope="col">VALOR_PROPIEDAD</th>
+        <th scope="col">COMUNA_VIV</th>
+        <th scope="col">REGION_VIV</th>
+        <th scope="col">MONTO_AHORRADO</th>
+        <th scope="col">PUNTAJE_MINIMO</th>
+        <th scope="col">PUNTAJE_OBTENIDO</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <th scope="row">2</th>
+        <td>1</td>
+        <td>(BLOB)</td>
+        <td>30/03/18</td>
+        <td>Mario Hugo</td>
+        <td>1-K</td>
+        <td>17/03/98</td>
+        <td>Juan Bryan Lopez Rodríguez</td>
+        <td>Chilena</td>
+        <td>Viudo</td>
+        <td>2</td>
+        <td>Si</td>
+        <td>Ingeniero informático</td>
+        <td>508</td>
+        <td>MANUEL RODRIGUEZ</td>
+        <td>0</td>
+        <td>0</td>
+        <td>(null)</td>
+        <td>(null)</td>
+        <td>METROPOLITANA</td>
+        <td>COLINA</td>
+        <td>229999</td>
+        <td>0</td>
+        <td>952043286</td>
+        <td>213124</td>
+        <td>a.@gmail.com</td>
+        <td>F-F</td>
+        <td>Felipe Perez Orruenda</td>
+        <td>Tramo 1</td>
+        <td>Casa</td>
+        <td>46000000</td>
+        <td>Colina</td>
+        <td>Metropolitana</td>
+        <td>8000000 </td>
+        <td>945</td>
+        <td>1220</td>
+        </tr>
+        <tr>
+        <th scope="row">2</th>
+        <td>2</td>
+        <td>(BLOB)</td>
+        <td>20/04/18</td>
+        <td>Mario Hugo</td>
+        <td>2-K</td>
+        <td>20/02/00</td>
+        <td>Juan Bryan Lopez Rodríguez</td>
+        <td>Chilena</td>
+        <td>Viudo</td>
+        <td>2</td>
+        <td>Si</td>
+        <td>Ingeniero informático</td>
+        <td>508</td>
+        <td>MANUEL RODRIGUEZ</td>
+        <td>0</td>
+        <td>0</td>
+        <td>(null)</td>
+        <td>(null)</td>
+        <td>METROPOLITANA</td>
+        <td>COLINA</td>
+        <td>229999</td>
+        <td>0</td>
+        <td>952043286</td>
+        <td>213124</td>
+        <td>a.@gmail.com</td>
+        <td>F-F</td>
+        <td>Felipe Perez Orruenda</td>
+        <td>Tramo 1</td>
+        <td>Casa</td>
+        <td>46000000</td>
+        <td>Colina</td>
+        <td>Metropolitana</td>
+        <td>8000000 </td>
+        <td>945</td>
+        <td>1220</td>
+        </tr>
+
+    </tbody>
+</table>
+</div>
+    <p></p>
+    <div class="row" style="margin: 0">
+      <div class="col-xl-2 col-lg-6">
+      </div>
+
+      <div class="col-xl-8 col-lg-6" align="justify">
+            <div class="row">
+                <div class="col-lg-4">
+                    <button type="button" class="btn btn-primary" style="margin-left: 130px; width: 100px;">Agregar</button>
+                </div>
+                <div class="col-lg-4">
+                    <button type="button" class="btn btn-danger" style="margin-left: 130px; width: 100px;">Eliminar</button>
+                </div>
+                <div class="col-lg-4">
+                    <button type="button" class="btn btn-warning"style="margin-left: 130px; width: 100px;">Modificar</button>
+                </div>            
+            </div>
+            
+      </div>
+
+      <div class="col-xl-2 col-lg-6">
+      </div>
+    </div>
+{% endblock %}
