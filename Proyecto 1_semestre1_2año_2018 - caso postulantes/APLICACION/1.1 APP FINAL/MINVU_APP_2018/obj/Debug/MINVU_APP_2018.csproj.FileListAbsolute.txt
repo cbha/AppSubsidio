@@ -1,0 +1,100 @@
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe.config
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.pdb
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csprojResolveAssemblyReference.cache
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Properties.Resources.resources
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.GenerateResource.cache
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CoreCompileInputs.cache
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.exe
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.pdb
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.AsignacionPuntaje.resources
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.BuscarPostulante.resources
+C:\Users\José Ignacio\source\repos\WindowsFormsApp2\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Principal.resources
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe.config
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.pdb
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csprojResolveAssemblyReference.cache
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.AsignacionPuntaje.resources
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.BuscarPostulante.resources
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Principal.resources
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Properties.Resources.resources
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.GenerateResource.cache
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CoreCompileInputs.cache
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.exe
+C:\Users\José Ignacio\Desktop\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe.config
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csprojAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.AsignacionPuntaje.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.BuscarPostulante.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Principal.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Properties.Resources.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.GenerateResource.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe.config
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csprojAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.AsignacionPuntaje.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.BuscarPostulante.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Principal.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Properties.Resources.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.GenerateResource.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\APP FINAL_franco\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe.config
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.AsignacionPuntaje.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.BuscarPostulante.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Principal.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Properties.Resources.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.GenerateResource.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csprojAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe.config
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\MINVU_APP_2018.pdb
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csprojAssemblyReference.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.AsignacionPuntaje.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.BuscarPostulante.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Principal.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.Properties.Resources.resources
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.GenerateResource.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CoreCompileInputs.cache
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.csproj.CopyComplete
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.exe
+C:\Users\BlackSeido\Desktop\EXECUTABLES\pby\subir al drive\1.1 APP FINAL\MINVU_APP_2018\obj\Debug\MINVU_APP_2018.pdb
